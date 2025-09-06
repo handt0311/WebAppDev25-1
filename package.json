@@ -1,0 +1,25 @@
+{
+  "name": "webappdev25-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handt0311/WebAppDev25-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/handt0311/WebAppDev25-1/issues"
+  },
+  "homepage": "https://github.com/handt0311/WebAppDev25-1#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "serverless-http": "^4.0.0"
+  }
+}
